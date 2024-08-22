@@ -1,2 +1,3 @@
 # TrongPham
-Test
+Hi guy!
+I'm Trong
